@@ -6,7 +6,7 @@ import "./App.css";
 const PLACES = [
     { name: "Витебск", zip: "620127" },
     { name: "Минск", zip: "625144" },
-    { name: "Гомель", zip: "620540" },
+    { name: "Гомель", zip: "627907" },
     { name: "Гродно", zip: "627904" },
     { name: "Могилёв", zip: "625665" },
     { name: "Брест", zip: "629634" }
@@ -88,7 +88,7 @@ class App extends Component {
                         </Col>
                     </Row>
                     <Col md={12} sm={12}>
-                        <p align="right">Autor <a target="_blank" href="https://github.com/grhgrmgrhrm">Raman Shastapalau</a> © <span>2018</span>
+                        <p align="right">Developer <a target="_blank" href="https://github.com/grhgrmgrhrm">Raman Shastapalau</a> © <span>2018</span>
                         </p>
                     </Col>
                 </Grid>
